@@ -61,6 +61,16 @@ To run the application locally:
 npm run dev
 ```
 
+## To Run Tests
+```bash
+npm run test
+```
+
+## To See Coverage
+```bash
+npm run cov
+```
+
 ## Folder Structure
 
 The project is structured as follows:
